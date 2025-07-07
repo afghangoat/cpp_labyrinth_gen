@@ -1,8 +1,8 @@
-#C++ labyrinth generator
+# C++ labyrinth generator
 
 Contains an OOP implementation of a C++ labyrinth generator and an executable file for Linux.
 
-##Usage:
+## Usage:
 
 Run:
 
